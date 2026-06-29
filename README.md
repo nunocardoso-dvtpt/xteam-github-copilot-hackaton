@@ -35,7 +35,7 @@ The following defects were identified and are now addressed in code.
 Detailed rationale is tracked in `MAINTENANCE_LOG.md`.
 
 | ID | Severity | Summary | Impact | Status |
-|---|---|---|---|
+|---|---|---|---|---|
 | BUG-01 | Medium | `show` command printed duplicate entries | Misleading operational output | Resolved |
 | BUG-02 | High | `add` parsing broke for multi-word category/description | Failed or invalid book creation | Resolved |
 | BUG-03 | Medium | Missing command arguments raised index errors | Runtime interruption | Resolved |
